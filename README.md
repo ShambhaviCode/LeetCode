@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/ShambhaviCode/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShambhaviCode/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShambhaviCode/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
