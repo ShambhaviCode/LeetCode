@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/ShambhaviCode/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/ShambhaviCode/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
