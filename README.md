@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShambhaviCode/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShambhaviCode/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ShambhaviCode/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
