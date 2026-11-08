@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ShambhaviCode/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/ShambhaviCode/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShambhaviCode/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/ShambhaviCode/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShambhaviCode/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/ShambhaviCode/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
