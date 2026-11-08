@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShambhaviCode/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ShambhaviCode/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ShambhaviCode/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ShambhaviCode/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sorting
 |  |
 | ------- |
